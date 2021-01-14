@@ -1,0 +1,120 @@
+DECRIPTION:
+Loại hình 					(categorical) - Loại hinh căn nhà
+Phòng ngủ					(int) - Số phòng ngủ								
+Phòng tắm					(int) - Số phòng tắm	
+Diện tích					(float) - Diện tích của căn nhà (float)
+Tình hình nội thất				Tình hình nội thất trong nhà
+						(Không có nội thất / Nội thất cơ bản / Đầy đủ nội thất)	
+Dự án						(categorical) - Tên dự án
+Ban công					Nhà có ban công không?
+						(Yes , No)	
+Phòng cho giúp việc				Nhà có phòng cho giúp việc không?
+						(Yes , No)
+Sân vườn					Nhà có sân vườn không?	
+						(Yes , No)
+Phòng giải trí					Nhà có phòng giải trí không?
+						(Yes , No)
+Chỗ đậu xe hơi					Nhà có chỗ đậu xe hơi	không?
+						(Yes , No)
+Hồ bơi riêng					Nhà có hồ bơi riêng không?
+						(Yes , No)
+Quầy minibar					Nhà có quầy minibar không?
+						(Yes , No)
+Tầng hầm					Nhà có tầng hầm không?
+						(Yes , No)
+Góc làm việc					Nhà có góc làm việc không?
+						(Yes , No)
+Nhà kho						Nhà có kho không?
+						(Yes , No)
+Nuôi thú cưng					Nhà có nuôi thú cưng không?
+						(Yes , No)
+Gym						Nhà có phòng Gym không?
+						(Yes , No)
+Bàn ghế phòng khách				Nhà có Bàn ghế phòng khách không?
+						(Yes , No)
+Kệ TV						Nhà có Kệ TV không?
+						(Yes , No)
+Bộ bàn ăn và ghế				Nhà có Bộ bàn ăn và ghế không?
+						(Yes , No)
+Đảo bếp						Nhà có Đảo bếp không?
+						(Yes , No)
+Đèn trang trí					Nhà có Đèn trang trí không?
+						(Yes , No)
+Bếp ướt						Nhà có Bếp ướt không?
+						(Yes , No)
+Bếp khô						Nhà có Bếp khô không?
+						(Yes , No)
+Tủ bếp trên					Nhà có Tủ bếp trên không?
+						(Yes , No)
+Tủ bếp dưới					Nhà có Tủ bếp dưới không?
+						(Yes , No)
+Sàn gỗ						Nhà có Sàn gỗ không?
+						(Yes , No)
+Tủ âm tường					Nhà có Tủ âm tường không?
+						(Yes , No)
+Tủ treo đồ / tủ quần áo				Nhà có Tủ treo đồ / tủ quần áo không?
+						(Yes , No)	
+Tủ kê đầu giường				Nhà có Tủ kê đầu giường không?	
+						(Yes , No)
+Đèn trần					Nhà có Đèn trần không?	
+						(Yes , No)
+Đèn bàn						Nhà có Đèn bàn không?
+						(Yes , No)
+Giường						Nhà có Giường không?
+						(Yes , No)
+Đệm, chăn, gối					Nhà có Đệm, chăn, gối không?
+						(Yes , No)
+Tủ giày dép					Nhà có tủ giày dép không?
+						(Yes , No)
+Bồn tắm						Nhà có bồn tắm	không?
+						(Yes , No)
+Kệ sách						Nhà có kệ sách không?
+						(Yes , No)
+Bàn làm việc					Nhà có Bàn làm việc không?
+						(Yes , No)	
+Bàn trang điểm					Nhà có Bàn trang điểm không?	
+						(Yes , No)
+TV						Nhà có TV không?
+						(Yes , No)
+Máy hút mùi					Nhà có Máy hút mùi không?	
+						(Yes , No)
+Cảm biến cháy					Nhà có Cảm biến cháy
+						(Yes , No)	
+Tủ lạnh						Nhà có Tủ lạnh không?
+						(Yes , No)
+Bếp ga, bếp từ					Nhà có Bếp ga, bếp từ không?
+						(Yes , No)
+Máy giặt					Nhà có Máy giặt không?
+						(Yes , No)
+Máy sấy						Nhà có Máy sấy không?
+						(Yes , No)
+Dàn phơi đồ thông minh				Nhà có Dàn phơi đồ thông minh
+						(Yes , No)	
+Máy lạnh					Nhà có Máy lạnh không?	
+						(Yes , No)
+Máy nước nóng					Nhà có Máy nước nóng không?
+						(Yes , No)
+Khóa cửa thẻ từ					Nhà có Khóa cửa thẻ từ không?
+						(Yes , No)
+Khóa cửa mật khẩu				Nhà có Khóa cửa mật khẩu không?
+						(Yes , No)
+Khóa cửa vân tay				Nhà có Khóa cửa vân tay không?	
+						(Yes , No)
+Thiết bị âm thanh				Nhà có Thiết bị âm thanh không?
+						(Yes , No)
+Smart Home					Nhà có Lò nướng không?
+						(Yes , No)
+Lò nướng					Nhà có Lò nướng không?
+						(Yes , No)
+Lò vi sóng					Nhà có Lò vi sóng không?
+						(Yes , No)
+Camera an ninh					Nhà có Camera an ninh không?	
+						(Yes , No)
+Internet					Nhà có Internet không?
+						(Yes , No)
+Truyền hình cáp					Nhà có Truyền hình cáp	không?
+						(Yes , No)
+Số tầng						(int) -  Số tầng của căn nhà
+Diện tích sử dụng				(float) - Diện tích sử dụng của căn nhà
+Loại chủ quyền					Loại hình chủ quyền của căn nhà
+						(HĐ mua bán / Số hồng / Sổ đỏ / Giấy tay)
